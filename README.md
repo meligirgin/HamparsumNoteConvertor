@@ -1,2 +1,2 @@
-# Zybo Z7-10 Pcam 5C Demo Project 
-Created for Vivado 2017.4
+# Zybo Z7-20 Pcam 5C Hamparsum Project 
+Created for Vivado 2018.2
